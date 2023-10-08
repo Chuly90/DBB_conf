@@ -158,7 +158,7 @@ if RUN_GITHUB_EXAMPLE:
     #This conditional is merely for distribution purposes 
     #(GitHub version)
     app = app()
-    sRutaTemps = r'd:\mis documentos\GitHub\DBB_conf'
+    sRutaTemps = r'd:\mis documentos\GitHub\DBB_conf\Example'
     User_FileName = r'SE1__result'
     FolderSEsDoble = ['Example1'] #This is for the code to run (ignore this)    
 
